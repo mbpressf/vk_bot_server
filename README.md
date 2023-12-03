@@ -16,6 +16,6 @@ The customer was completely **satisfied with the result of the work**, noting th
  <img width="200px" src="https://github.com/mbpressf/vk_bot_server/blob/main/1.png" alt="qr"/>
 </p>
 
-<p align="left">
+<p align="center">
  <img width="200px" src="https://github.com/mbpressf/vk_bot_server/blob/main/2.png" alt="qr"/>
 </p>
