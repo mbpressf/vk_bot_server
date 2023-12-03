@@ -21,3 +21,6 @@ The customer was completely **satisfied with the result of the work**, noting th
 <p align="left">
   <img width="200px" src="https://github.com/mbpressf/vk_bot_server/blob/main/2.png" alt="qr2"/>
 </p>
+
+
+[![Telegram](https://img.shields.io/badge/-Telegram-545352?style=for-the-badge&logo=telegram)](https://t.me/fomixb_v)
